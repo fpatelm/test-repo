@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "prod": "test-website-prod",
+    "dev": "test-website-dev"
+  }
+}
